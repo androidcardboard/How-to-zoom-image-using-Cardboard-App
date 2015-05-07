@@ -1,5 +1,7 @@
 How to zoom image using Cardboard App	
 ==============
+![Logo](http://4.bp.blogspot.com/-iEIz9bkYITc/VQvDqElbuEI/AAAAAAAABLk/G9Zk0zzZ4tY/s1600/VR-Zoom.png "Cardboard Home")
+
 This project aims at developing inexpensive virtual reality (VR) image zoom for everyone on a click of a trigger using the class animation. This project enables users to know about the use of VR Cardboard and its functioning. 
 Equipment Required 
 =========
